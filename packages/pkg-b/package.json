@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "loose-envify": "1.2.0"
+    "loose-envify": "1.2.0",
+    "vue": "^3"
   },
   "keywords": [],
   "author": "",
